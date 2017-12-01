@@ -4,6 +4,10 @@ Chains can Encrypt AND Decrypt Words AND Contents of .txt Files .
 
 ![Alt text](https://image.ibb.co/kDSYVG/Banner.png "Chains ScreenShoot")
 
+# OS : 
+
+* Linux 
+
 # Features :
 
 1- Register in Chains Tool With USER & PASS ( Your Information Will be Encrypted !).
