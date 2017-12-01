@@ -24,23 +24,9 @@ Chains can Encrypt AND Decrypt Words AND Contents of .txt Files .
 
 Before Running The tool, follow the steps below : 
 
-1- Create A Folder ( Give it any name ).
+1- Download Chains_For_Linux.zip.
 
-2- Include The Files Listed Below In The Folder You Just Created In The Previous Step : 
-
-* Banner.txt
-
-* 1.txt
-
-* Chains 
-
-* x02.txt
-
-* xc047.txt
-
-* xc048.txt
-
-* xc049.txt
+2- unzip Chains_For_Linux.zip 
 
 3- Open Terminal ( !! In the same directory with the files above !! ).
 
