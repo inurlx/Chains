@@ -38,17 +38,17 @@ Chains is a tool that can encrypt or decrypt a content of .txt files, single wor
 
 1- * git clone * 
 
-root@kali:~# git clone https://github.com/inurlx/Chains.git
+- root@kali:~# git clone https://github.com/inurlx/Chains.git
 
-root@kali:~# ls 
+- root@kali:~# ls 
 
-root@kali:~# cd Chains 
+- root@kali:~# cd Chains 
 
-root@kali:~/Chains# unzip Chains_Linux_V2.zip 
+- root@kali:~/Chains# unzip Chains_Linux_V2.zip 
 
-root@kali:~/Chains# ls
+- root@kali:~/Chains# ls
 
-root@kali:~/Chains# ./Chains
+- root@kali:~/Chains# ./Chains
 
 2- * Downloading Manually * : 
 
