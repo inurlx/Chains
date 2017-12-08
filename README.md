@@ -11,7 +11,7 @@ Chains is a tool that can encrypt or decrypt a content of .txt files, single wor
 # [ OS Supported ] :
 
 - Linux
-- Windows [ SOON ] 
+- Windows 
 
 ***********************************************************
 
