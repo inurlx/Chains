@@ -34,7 +34,7 @@ Chains is a tool that can encrypt or decrypt a content of .txt files, single wor
 [+]________________________________________________________________________[+]
 
 
-# [ Installation ] : 
+# [ Linux Installation ] : 
 
 1- * git clone * 
 
@@ -61,6 +61,16 @@ Chains is a tool that can encrypt or decrypt a content of .txt files, single wor
 - Open Terminal ( !! In the same directory with the files above !! ).
 
 - Type : ./Chains
+
+***********************************************************
+
+# [ Windows Installation ] : 
+
+- Download Chains_Windows_V2.zip 
+
+- unzip Chains_Windows_V2.zip
+
+- Run Chains.exe & Enjoy 
 
 [+]________________________________________________________________________[+]
 
